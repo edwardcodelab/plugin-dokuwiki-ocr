@@ -1,0 +1,7 @@
+base   ocr
+author dodotori @ dokuwiki forum
+email  dodotori@localhost
+date   2022-10-25
+name   ocr plugin
+desc   to ocr image
+url    https://github.com/edwardcodelab/plugin-dokuwiki-ocr
