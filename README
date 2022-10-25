@@ -1,6 +1,6 @@
 OCR plugin for DokuWiki
 
-to OCR image in editor
+to OCR image in editor by using tesseract.js library
 
 All documentation for this plugin can be found at
 https://github.com/edwardcodelab/dokuwiki-plugin-ocr
